@@ -1,0 +1,41 @@
+{
+  "remoteConfig": "https://github.com/immersivevreducation/ENGAGE_Mobile_Release/raw/master/Android/config.json",
+  "packageName" : "com.ivre.engage",
+  "versionCode": 1,
+  "versionName": "1.2.2",
+  "app_urls": {
+    "release_notes": "https://engagevr.io/release-notes/",
+    "web_app_login": "https://app.engagevr.io/login",
+    "tutorials": "https://engagevr.io/tutorials/basic-tutorials/",
+    "forum": "https://www.vredgroup.com/",
+    "support": "https://engagevr.io/support/",
+    "report_bug": "https://support.engagevr.io/",
+    "terms_and_conditions": "https://app.engagevr.io/terms/conditions",
+    "privacy_policy": "https://app.engagevr.io/terms/privacy",
+    "facebook": "https://www.facebook.com/immersivevreducation/",
+    "twitter": "https://twitter.com/vreducation",
+    "youtube": "https://www.youtube.com/channel/UCsG4UdABzOVHxNF-ndvwvZw",
+    "linkedin": "https://www.linkedin.com/company/immersive-vr-education/",
+    "website": "https://immersivevreducation.com/"
+  },
+  "builds": [
+    {
+      "name" : "Oculus",
+      "description" : "ENGAGE is an advanced virtual reality training and education platform.",
+      "url": "https://github.com/immersivevreducation/ENGAGE_Mobile_Release/raw/master/Android/Oculus/engage_quest.apk",
+      "permissions": []
+    },
+    {
+      "name" : "Pico",
+      "description" : "ENGAGE is an advanced virtual reality training and education platform.",
+      "url": "https://github.com/immersivevreducation/ENGAGE_Mobile_Release/raw/master/Android/Pico/engage_pico.apk",
+      "permissions": []
+    },
+    {
+      "name" : "Vive",
+      "description" : "ENGAGE is an advanced virtual reality training and education platform.",
+      "url": "https://github.com/immersivevreducation/ENGAGE_Mobile_Release/raw/master/Android/WaveVR/engage_wavevr.apk",
+      "permissions": []
+    }
+  ]
+}
