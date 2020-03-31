@@ -20,19 +20,19 @@
   },
   "builds": [
     {
-      "name" : "Oculus",
+      "name" : "Oculus Quest",
       "description" : "ENGAGE is an advanced virtual reality training and education platform.",
       "url": "https://github.com/immersivevreducation/ENGAGE_Mobile_Release/raw/master/Android/Oculus/engage_quest.apk",
       "permissions": []
     },
     {
-      "name" : "Pico",
+      "name" : "Pico G2 / G2 4K / Neo 2",
       "description" : "ENGAGE is an advanced virtual reality training and education platform.",
       "url": "https://github.com/immersivevreducation/ENGAGE_Mobile_Release/raw/master/Android/Pico/engage_pico.apk",
       "permissions": []
     },
     {
-      "name" : "Vive",
+      "name" : "HTC Vive Focus Plus",
       "description" : "ENGAGE is an advanced virtual reality training and education platform.",
       "url": "https://github.com/immersivevreducation/ENGAGE_Mobile_Release/raw/master/Android/WaveVR/engage_wavevr.apk",
       "permissions": []
