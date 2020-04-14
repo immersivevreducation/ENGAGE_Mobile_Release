@@ -1,8 +1,8 @@
 {
   "remoteConfig": "https://github.com/immersivevreducation/ENGAGE_Mobile_Release/raw/master/Android/config.json",
   "packageName" : "com.ivre.engage",
-  "versionCode": 5,
-  "versionName": "1.3.1",
+  "versionCode": 6,
+  "versionName": "1.3.2",
   "app_urls": {
     "release_notes": "https://engagevr.io/release-notes/",
     "web_app_login": "https://app.engagevr.io/",
