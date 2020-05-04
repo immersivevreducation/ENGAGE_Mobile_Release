@@ -22,7 +22,7 @@
   },
   "builds": [
     {
-      "name" : "Oculus Quest",
+      "name" : "Oculus Quest / GO",
       "description" : "ENGAGE is an advanced virtual reality training and education platform.",
       "url": "https://github.com/immersivevreducation/ENGAGE_Mobile_Release/raw/master/Android/Oculus/engage_quest.apk",
       "permissions": []
