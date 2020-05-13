@@ -41,12 +41,6 @@
       "description" : "ENGAGE is an advanced virtual reality training and education platform.",
       "url": "https://github.com/immersivevreducation/ENGAGE_Mobile_Release/raw/master/Android/WaveVR/engage_wavevr.apk",
       "permissions": []
-    },
-    {
-      "name" : "Android Mobile Phone - ALPHA",
-      "description" : "ENGAGE is an advanced virtual reality training and education platform.",
-      "url": "https://github.com/immersivevreducation/ENGAGE_Mobile_Release/blob/master/Android/Phone/engage_phone_alpha_1.3.3.apk",
-      "permissions": []
-    }
+    }   
   ]
 }
