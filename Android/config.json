@@ -31,13 +31,13 @@
       "permissions": []
     },
     {
-      "name" : "Pico G2 / G2 4K / Neo 2",
+      "name" : "Pico G2 4K E / Neo 2 / Neo 3",
       "description" : "ENGAGE is an advanced virtual reality training and education platform.",
       "url": "https://github.com/immersivevreducation/ENGAGE_Mobile_Release/raw/master/Android/Pico/engage_pico.apk",
       "permissions": []
     },
     {
-      "name" : "HTC Vive Focus Plus",
+      "name" : "HTC VIVE Focus Plus / Focus 3",
       "description" : "ENGAGE is an advanced virtual reality training and education platform.",
       "url": "https://github.com/immersivevreducation/ENGAGE_Mobile_Release/raw/master/Android/WaveVR/engage_wavevr.apk",
       "permissions": []
