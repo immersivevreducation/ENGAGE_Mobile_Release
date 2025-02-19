@@ -1,23 +1,23 @@
 {
   "remoteConfig": "https://github.com/immersivevreducation/ENGAGE_Mobile_Release/raw/master/Android/config.json",
-  "packageName" : "com.ivre.engage",
+  "packageName": "com.ivre.engage",
   "versionCode": 4016,
   "versionName": "3.10.1",
   "app_urls": {
     "release_notes": "https://engagevr.io/release-notes/",
     "web_app_login": "https://app.engagevr.io/",
-    "tutorials": "https://engagevr.io/tutorials/basic-tutorials/",
+    "tutorials": "https://engagevr.io/tutorials/",
     "forum": "https://www.vredgroup.com/",
     "support": "https://engagevr.io/support/",
     "report_bug": "https://support.engagevr.io/",
     "terms_and_conditions": "https://app.engagevr.io/terms/conditions",
     "privacy_policy": "https://app.engagevr.io/terms/privacy",
-    "facebook": "https://www.facebook.com/immersivevreducation/",
-    "twitter": "https://twitter.com/vreducation",
+    "facebook": "https://www.facebook.com/engagexr",
+    "twitter": "https://x.com/engage_xr",
     "youtube": "https://www.youtube.com/channel/UCsG4UdABzOVHxNF-ndvwvZw",
-    "linkedin": "https://www.linkedin.com/company/immersive-vr-education/",   
+    "linkedin": "https://www.linkedin.com/company/engagexr/",
     "website": "https://immersivevreducation.com/",
-    "read_more": "https://engagevr.io/sideloading/",    
+    "read_more": "https://engagevr.io/sideloading/",
     "discord": "",
     "instagram": "",
     "installer_download": "https://immersivevreducation.com/",
@@ -25,22 +25,22 @@
   },
   "builds": [
     {
-      "name" : "Oculus Quest / Quest 2",
-      "description" : "ENGAGE is an advanced virtual reality training and education platform.",
+      "name": "Meta Quest 2 / Quest Pro / Quest 3 / Quest 3S",
+      "description": "ENGAGE is an advanced virtual reality training and education platform.",
       "url": "https://github.com/immersivevreducation/ENGAGE_Mobile_Release/raw/master/Android/Oculus/engage_quest.apk",
       "permissions": []
     },
     {
-      "name" : "Pico G2 4K E / Neo 2 / Neo 3",
-      "description" : "ENGAGE is an advanced virtual reality training and education platform.",
+      "name": "PICO Neo3 / 4 / 4 Ultra",
+      "description": "ENGAGE is an advanced virtual reality training and education platform.",
       "url": "https://github.com/immersivevreducation/ENGAGE_Mobile_Release/raw/master/Android/Pico/engage_pico.apk",
       "permissions": []
     },
     {
-      "name" : "HTC VIVE Focus Plus / Focus 3",
-      "description" : "ENGAGE is an advanced virtual reality training and education platform.",
+      "name": "HTC VIVE Focus 3 / XR Elite",
+      "description": "ENGAGE is an advanced virtual reality training and education platform.",
       "url": "https://github.com/immersivevreducation/ENGAGE_Mobile_Release/raw/master/Android/WaveVR/engage_wavevr.apk",
       "permissions": []
-    }   
+    }
   ]
 }
